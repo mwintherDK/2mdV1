@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+:root {
+  /* Colors: */
+  --orange: #f28907;
+  --gray: #cdcdcd;
+  --darkOrange: #d9560b;
+  --red: #f23207;
+  --darkRed: #a61508;
+  --containerBg: rgba(64, 64, 64, 0.8);
+  --containerBg2: rgba(48, 48, 48, 0.8);
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
